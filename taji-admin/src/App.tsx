@@ -29,8 +29,7 @@ function App() {
         containerClassName="overflow-auto"
       />
 
-      <Rou
-      tes>
+      <Routes>
       <Route path="/verify" element={<Verify />} />
         <Route path="/auth/signin" element={<SignIn />} />
         <Route path="/auth/signup" element={<SignUp />} />
@@ -42,7 +41,9 @@ function App() {
               path={path}
               element={
                 <Suspense fallback={<Loader />}>
-                  <Component />
+                  <Component sidebarOpen={false} setSidebarOpen={function ( arg: boolean ): void {
+                    throw new Error( 'Function not implemented.' );
+                  } } />
                 </Suspense>
               }
             />

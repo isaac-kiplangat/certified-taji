@@ -1,0 +1,12 @@
+{
+  "graduates": [
+    {
+      "id": 1,
+      "certificate-no": "KABU/CS/0637/23",
+      "name": "Isaac Kiplangat",
+      "university": "Taji University ",
+      "course": "Bachelor of Science in Computer Science",
+      "dateIssued": "12/12/2023"
+    }
+  ]
+}

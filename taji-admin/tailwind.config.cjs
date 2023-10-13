@@ -7,6 +7,7 @@ module.exports = {
   theme: {
     fontFamily: {
       satoshi: ['Satoshi', 'sans-serif'],
+      times:['Times', 'serif'],
     },
     colors: {
       current: 'currentColor',

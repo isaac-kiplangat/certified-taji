@@ -25,7 +25,7 @@ const ChatCard = () => {
           <div className="flex flex-1 items-center justify-between">
             <div>
               <h5 className="font-medium text-black dark:text-white">
-                Devid Heilo
+                isaac Heilo
               </h5>
               <p>
                 <span className="text-sm text-black dark:text-white">

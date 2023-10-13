@@ -120,7 +120,7 @@ const DropdownMessage = () => {
 
               <div>
                 <h6 className="text-sm font-medium text-black dark:text-white">
-                  Robert Jhon
+                  Robert 
                 </h6>
                 <p className="text-sm">Can you share your offer?</p>
                 <p className="text-xs">10min ago</p>
