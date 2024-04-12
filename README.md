@@ -7,10 +7,10 @@ grad: Contains the code for the graduate portal, allowing graduates to access th
 server: Contains the backend server code for managing certifications and user authentication.
 admin: Contains the code for the institution dashboard, enabling institutions to manage and issue certifications.
 ## Features
-Institution Dashboard: Institutions can easily manage and issue certifications through a centralized dashboard.
-Graduate Portal: Graduates can access their certifications securely, anytime, anywhere.
-User Authentication: Secure authentication system ensures data privacy and integrity.
-Mobile Responsive: Responsive design ensures a seamless experience across devices.
+- Institution Dashboard: Institutions can easily manage and issue certifications through a centralized dashboard.
+- Graduate Portal: Graduates can access their certifications securely, anytime, anywhere.
+- User Authentication: Secure authentication system ensures data privacy and integrity.
+- Mobile Responsive: Responsive design ensures a seamless experience across devices.
 ## Technologies Used
 React: Frontend development
 Firebase: Backend services and authentication
